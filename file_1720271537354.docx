@@ -1,0 +1,1 @@
+nction extractRandomString(content, length) {  const startIndex = Math.floor(Math.random() * (conte
