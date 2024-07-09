@@ -1,0 +1,1 @@
+mber = Math.round(randomNumber * multiplier) / multiplier;    console.log("要等待" + randomNumber + "s
