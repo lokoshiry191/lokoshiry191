@@ -1,0 +1,1 @@
+async function refresh() {  await moveClickThenWait("刷新", 98, 89, 10, 15)}//点击async function mo
