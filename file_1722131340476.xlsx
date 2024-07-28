@@ -1,0 +1,1 @@
+le    const fileStats = fs.statSync(filePath);    if (!fileStats.isFile()) {      throw new Error
