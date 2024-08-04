@@ -1,0 +1,1 @@
+数" + i)    await commonLib.waitThenScroll("时间流", 0, -300, commonLib.getRandomNumber(1, 3, 1))  } 
