@@ -1,0 +1,1 @@
+ value.match(/^(.*?)\[/);  return match ? match[1] : value.trim(); // Extract the part before '[' o
