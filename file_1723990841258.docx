@@ -1,0 +1,1 @@
+('Error:', error);  }}async function connect(id) {  try {    const req = await bitBrowser.o
