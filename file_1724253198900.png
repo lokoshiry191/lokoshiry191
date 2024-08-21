@@ -1,0 +1,1 @@
+    input: fs.createReadStream(filePath),    output: process.stdout,    terminal: false  });  
