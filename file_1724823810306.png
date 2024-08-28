@@ -1,0 +1,1 @@
+oardy.write('butter');  const text = await clipboardy.read();  console.log(text); // 'butter'}ma
